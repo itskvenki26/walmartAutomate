@@ -5,7 +5,7 @@ IDE used: Eclipse
 Programming Language: Java
 
 How to test:
-    1. Download the project from:https://github.com/itskvenki26/walmartautomate
+    1. Download the project from:https://github.com/itskvenki26/walmartAutomate
        and un-zip it.
 	2. open a java Eclipse IDE and import the project
 	3. go to folder src/main/java, package com.walmart.automate,
