@@ -1,0 +1,36 @@
+Automating www.walmart.com using Selenium Webdriver.
+
+Browser used: Chrome
+IDE used: Eclipse
+Programming Language: Java
+
+How to test:
+    1. Download the project from:https://github.com/itskvenki26/walmartautomate
+       and un-zip it.
+	2. open a java Eclipse IDE and import the project
+	3. go to folder src/main/java, package com.walmart.automate,
+	4. right click on ChromeSelenium.java and choose Run_As Junit_test
+	5. the test program will automatically opens a chrome browser and starts an 
+	   e-commerce transactions using Selenium web driver for www.walmart.com.
+	   
+How it Works:
+   1. after opening webbrowser, it validates the login, password credentials.
+     Here it log-ins using the credentials given.
+   2. Then searches on keywords: tv, socks, dvd, toys, and iPhone	     
+     It Validates that item added is present in the cart and is the only item in the cart and deleting the item.
+   3. when all the tests are done, it closes the chrome browser. 
+  
+More information:   
+   1. I kept waiting time in between each step so that any one can see the steps clearly.
+   2. Used Selenium webdriver as it is open source and easy to use.
+ 
+ 
+     
+	   
+	     
+
+	
+	
+	
+	
+	
